@@ -111,6 +111,14 @@ i:hover {
 
 /* Mobile + Tablet */
 @media (max-width: 992px) {
+	body {
+		background: url(../images/bg-mobile.svg) no-repeat center center fixed, var(--violet);
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+	}
+
 	.container {
 		display: flex;
 		flex-direction: column;
