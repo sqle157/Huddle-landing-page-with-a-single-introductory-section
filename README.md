@@ -16,8 +16,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Here](https://github.com/sqle157/four-card-feature-section)
-- Live Site URL: [Here](https://sqle157.github.io/four-card-feature-section)
+- Solution URL: [Here](https://github.com/sqle157/Huddle-landing-page-with-a-single-introductory-section)
+- Live Site URL: [Here](https://sqle157.github.io/Huddle-landing-page-with-a-single-introductory-section/)
 
 ### Built with
 
