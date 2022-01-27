@@ -29,7 +29,7 @@ body {
 	font-size: 18px;
 	color: white;
 	font-family: "Open Sans", sans-serif;
-	background: url("./images/bg-desktop.svg") no-repeat center center fixed;
+	background: url("../images/bg-desktop.svg") no-repeat center center fixed;
 	background-color: var(--violet);
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
